@@ -4,7 +4,9 @@ Building AI course
 Painting with AI
 ## Summary
 I woudl like with generative AI Paint a butterfly
+
 #Task
+
 prompt = "A beautiful, colorful butterfly painting, digital art, highly detailed"
 
 # Generate image
