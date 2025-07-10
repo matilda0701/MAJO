@@ -2,7 +2,7 @@
 Building AI course
 # Project Title
 Painting with AI
-##Summary
+## Summary
 I woudl like with generative AI Paint a butterfly
 #Task
 prompt = "A beautiful, colorful butterfly painting, digital art, highly detailed"
